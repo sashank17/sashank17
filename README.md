@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sashank17
 - 👀 I’m interested in Computer Science and AI/ML
-- 🌱 I’m currently learning App Development and Web Development
 
 <!---
 sashank17/sashank17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
